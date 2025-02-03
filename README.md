@@ -30,3 +30,6 @@ Verify the found address using:
 2. **Memory Inspection**: Check if `RenderView + offsets` points to valid Datamodel structures
 3. **In-Game Testing**: Use the address for rendering modifications
 
+Credits to this website that gave me this info to create this:
+
+https://www.itwasnta.shop/tutorials/rust-datamodel-dumper
